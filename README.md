@@ -1,4 +1,13 @@
-## Hi there 👋
+# Welcome to my profile!👋 I'm Reem 🩷
+
+### A graduate MIS student passionate about data, insights, and dashboards.
+
+### 💡 I love turning raw data into clear, interactive Power BI reports.
+🚀 I enjoy making data visual, engaging, and easy to understand.
+🛠 Skills: Power BI, DAX, Power Query, Excel, Data Visualization.
+🎯 Goal: Help organizations make data-driven decisions and tell stories with numbers.
+
+##Check out my dashboards and projects—feedback is welcome!
 
 <!--
 **reemfaalju/reemfaalju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
